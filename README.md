@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lgc2333)
+
 - 🎓 I’m currently a senior high student
 - 📝 I’m currently using Python & EPL
 - 🏠 I’m currently live in Guangshui, Hubei, China
