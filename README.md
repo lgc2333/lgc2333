@@ -5,7 +5,7 @@
 
 - 🎓 I’m currently a senior high student
 - 📝 I’m currently using Python, JavaScript & EPL
-- 📒 I'm currently learning Java
+- 📒 I'm currently learning Java, Golang
 - 🏠 I’m currently live in Guangshui, Hubei, China
 - 📫 How to reach me: [Email](mailto:lgc2333@126.com) | QQ:3076823485 | [QQ Group](https://jq.qq.com/?_wv=1027&k=ktwOHdU2) | [Telegram](https://t.me/@lgc2333)
 - 🌎 My website: <https://lgc2333.top>
