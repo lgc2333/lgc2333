@@ -7,9 +7,9 @@
 
 🎓 I’m currently a senior high student
 
-📝 I’m currently using Python, JavaScript & EPL [(Wiki)](https://en.wikipedia.org/wiki/Easy_Programming_Language)
+📝 I’m currently using Python, JavaScript (or TypeScript) & EPL [(Wiki)](https://en.wikipedia.org/wiki/Easy_Programming_Language)
 
-📒 I'm currently learning Java, Golang
+📒 I'm currently learning Java, Golang, C++, C#
 
 🏠 I’m currently live in Guangshui, Hubei, China
 
