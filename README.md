@@ -2,7 +2,6 @@
 
 <div width="50%">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/wakatime?username=lgc2333&layout=compact" />
 </div>
 
 🎓 I’m currently a senior high student
@@ -18,3 +17,6 @@
 🌎 My website: <https://lgc2333.top>
 
 🤝 Support me: [AFDian](https://afdian.net/@lgc2333) | [Direct(Alipay, WeChat Pay or QQ Pay)](https://s2.loli.net/2022/02/03/MLqe53BjWOAhpcF.png)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
