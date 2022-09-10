@@ -18,6 +18,8 @@
 
 🤝 Support me: [AFDian](https://afdian.net/@lgc2333) | [Direct(Alipay, WeChat Pay or QQ Pay)](https://s2.loli.net/2022/02/03/MLqe53BjWOAhpcF.png)
 
+## My Code Status
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-747%20hrs%2018%20mins-blue)
 
