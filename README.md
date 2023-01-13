@@ -12,7 +12,7 @@
 
 🏠 I’m currently live in Guangshui, Hubei, China
 
-📫 How to reach me: [Email](mailto:lgc2333@126.com) | QQ:3076823485 | [QQ Group](https://jq.qq.com/?_wv=1027&k=ktwOHdU2) | [Telegram](https://t.me/@lgc2333)
+📫 How to reach me: [Email](mailto:lgc2333@126.com) | QQ:3076823485 | [QQ Group](https://jq.qq.com/?_wv=1027&k=ktwOHdU2) | [Telegram](https://t.me/@lgc2333) ([Channel](https://t.me/stu2333_pd) | [NSFW Channel](https://t.me/stu_collection))
 
 🌎 My website: <https://lgc2333.top>
 
