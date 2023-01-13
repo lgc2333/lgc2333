@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div width="50%">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true" />
+<img align="right" src="https://readme.lgc2333.top/api?username=lgc2333&show_icons=true" />
 </div>
 
 🎓 I’m currently a senior high student
