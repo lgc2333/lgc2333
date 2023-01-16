@@ -21,17 +21,17 @@
 ## My Code Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-993%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-32-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 31 Contributions in the Year 2023
+> 🏆 32 Contributions in the Year 2023
  > 
-> 📦 704.3 kB Used in GitHub's Storage 
+> 📦 704.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@ Sunday       122 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               9 hrs 6 mins        ████████████░░░░░░░░░░░░░   50.79% 
-TypeScript               5 hrs 30 mins       ███████░░░░░░░░░░░░░░░░░░   30.73% 
-JSON                     2 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.7% 
-Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
-Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.34%
+JavaScript               11 hrs 54 mins      ██████████████░░░░░░░░░░░   56.13% 
+TypeScript               5 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97% 
+JSON                     2 hrs 34 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.17% 
+Markdown                 52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.13% 
+Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.13%
 
 🔥 Editors: 
-VS Code                  17 hrs 55 mins      █████████████████████████   100.0%
+VS Code                  21 hrs 12 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LLSEPlugins              17 hrs 45 mins      ████████████████████████░   99.1% 
-nonebot2-oneclick-win    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
+LLSEPlugins              21 hrs 3 mins       ████████████████████████░   99.24% 
+nonebot2-oneclick-win    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
 
 💻 Operating System: 
-Windows                  17 hrs 55 mins      █████████████████████████   100.0%
+Windows                  21 hrs 12 mins      █████████████████████████   100.0%
 
 ```
 
@@ -103,5 +103,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgc2333/lgc2333/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/01/2023 08:07:47 UTC
+ Last Updated on 16/01/2023 08:07:49 UTC
 <!--END_SECTION:waka-->
