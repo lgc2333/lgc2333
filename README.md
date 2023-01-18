@@ -21,21 +21,21 @@
 ## My Code Status
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C002%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C003%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-35-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-36-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-56%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-55%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 39 Contributions in the Year 2023
+> 🏆 45 Contributions in the Year 2023
  > 
-> 📦 711.3 kB Used in GitHub's Storage 
+> 📦 711.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 57 Public Repositories 
+> 📜 58 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
@@ -68,21 +68,22 @@ Sunday       122 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               15 hrs 58 mins      ███████████████░░░░░░░░░░   62.77% 
-TypeScript               5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.64% 
-JSON                     2 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.39% 
-Markdown                 52 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.44% 
-Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.95%
+JavaScript               20 hrs 55 mins      ████████████████░░░░░░░░░   66.29% 
+TypeScript               5 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.46% 
+JSON                     2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.44% 
+Markdown                 1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.57% 
+Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.76%
 
 🔥 Editors: 
-VS Code                  25 hrs 27 mins      █████████████████████████   100.0%
+VS Code                  31 hrs 34 mins      █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-LLSEPlugins              25 hrs 18 mins      ████████████████████████░   99.37% 
-nonebot2-oneclick-win    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+LLSEPlugins              30 hrs 59 mins      ████████████████████████░   98.19% 
+Unknown Project          28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+nonebot2-oneclick-win    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 💻 Operating System: 
-Windows                  25 hrs 27 mins      █████████████████████████   100.0%
+Windows                  31 hrs 34 mins      █████████████████████████   100.0%
 
 ```
 
@@ -103,5 +104,5 @@ Shell                    1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lgc2333/lgc2333/main/charts/bar_graph.png) 
 
 
- Last Updated on 17/01/2023 08:08:44 UTC
+ Last Updated on 18/01/2023 08:12:27 UTC
 <!--END_SECTION:waka-->
