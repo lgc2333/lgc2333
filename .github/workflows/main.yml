@@ -16,3 +16,6 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_UPDATED_DATE: "True"
           SHOW_LINES_OF_CODE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SYMBOL_VERSION: 2
+          UPDATED_DATE_FORMAT: "%Y/%m/%d %H:%M:%S"
