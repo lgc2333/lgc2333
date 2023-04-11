@@ -1,26 +1,17 @@
-## Hi there 👋
+## Hello Everyone ❤️
 
-<div align="right">
-Profile Visits from 2023/4/12: <br />
-<img align="right" src="https://count.getloli.com/get/@lgc2333?theme=rule34" />
-</div>
+- 🎓 I’m currently a senior high student (but dropped out)
+- 📝 I’m currently using Python, JavaScript (or TypeScript)
+- 🏠 I’m currently live in Guangshui, Hubei, China
+- 📫 How to reach me: [Email](mailto:lgc2333@126.com) | QQ:3076823485 | [QQ Group](https://jq.qq.com/?_wv=1027&k=ktwOHdU2) | [Telegram](https://t.me/@lgc2333) ([Channel](https://t.me/stu2333_pd) | [NSFW Channel](https://t.me/stu_collection2))
+- 🏢 My organizations: [lgc-LLSEDev](https://github.com/lgc-LLSEDev)
+- 🌎 My website: <https://lgc2333.top>
+- 🤝 Support me: [AFDian](https://afdian.net/@lgc2333) | [Direct(Alipay, WeChat Pay or QQ Pay)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
 
-🎓 I’m currently a senior high student (but dropped out)
+Profile Visits from 2023/4/12 | I LOVE LOLIS
 
-📝 I’m currently using Python, JavaScript (or TypeScript)
+![visits](https://count.getloli.com/get/@lgc2333?theme=rule34)
 
-<!-- 📒 I'm currently learning Java, Golang, C++, C# -->
-
-🏠 I’m currently live in Guangshui, Hubei, China
-
-📫 How to reach me: [Email](mailto:lgc2333@126.com) | QQ:3076823485 | [QQ Group](https://jq.qq.com/?_wv=1027&k=ktwOHdU2) | [Telegram](https://t.me/@lgc2333) ([Channel](https://t.me/stu2333_pd) | [NSFW Channel](https://t.me/stu_collection2))
-
-🏢 My organizations: [lgc-LLSEDev](https://github.com/lgc-LLSEDev)
-
-🌎 My website: <https://lgc2333.top>
-
-🤝 Support me: [AFDian](https://afdian.net/@lgc2333) | [Direct(Alipay, WeChat Pay or QQ Pay)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
- 
 ## My Code Status
 
 <div align="right">
