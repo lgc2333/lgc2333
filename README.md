@@ -1,8 +1,7 @@
 ## Hi there 👋
 
 <div align="right">
-Visits from 2023/4/12:
-<br />
+Profile Visits from 2023/4/12: <br />
 <img align="right" src="https://count.getloli.com/get/@lgc2333?theme=rule34" />
 </div>
 
@@ -21,11 +20,13 @@ Visits from 2023/4/12:
 🌎 My website: <https://lgc2333.top>
 
 🤝 Support me: [AFDian](https://afdian.net/@lgc2333) | [Direct(Alipay, WeChat Pay or QQ Pay)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
-
+ 
 ## My Code Status
 
-![status](https://readme.lgc2333.top/api?username=lgc2333&show_icons=true)
-
+<div align="right">
+<img align="right" src="https://readme.lgc2333.top/api?username=lgc2333&show_icons=true" />
+</div>
+ 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C245%20hrs%2053%20mins-blue)
 
