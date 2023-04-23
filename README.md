@@ -14,7 +14,7 @@ Profile Visits from 2023/4/12 | I LOVE LOLIS
 
 ## My Code Status
 
-<img src="https://readme.lgc2333.top/api?username=lgc2333&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true" />
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C314%20hrs%2013%20mins-blue)
