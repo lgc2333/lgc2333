@@ -2,7 +2,7 @@
 
 - 🎓 I’m currently a senior high student (but dropped out)
 - 📝 I’m currently using Python, JavaScript (or TypeScript)
-- 🏠 I’m currently live in Guangshui, Hubei, China
+- 🏠 I’m currently living in Guangshui, Hubei, China
 - 📫 How to reach me: [Email](mailto:lgc2333@126.com) | QQ:3076823485 | [QQ Group](https://jq.qq.com/?_wv=1027&k=ktwOHdU2) | [Telegram](https://t.me/@lgc2333) ([Channel](https://t.me/stu2333_pd) | [NSFW Channel](https://t.me/stu_collection2))
 - 🏢 My organizations: [lgc-LLSEDev](https://github.com/lgc-LLSEDev) | [lgc-NB2Dev](https://github.com/lgc-NB2Dev)
 - 🌎 My website: <https://lgc2333.top>
