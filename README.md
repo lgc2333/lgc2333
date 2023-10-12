@@ -6,6 +6,7 @@
 - 📫 How to reach me: [Email](mailto:lgc2333@126.com) | QQ:3076823485 | [QQ Group](https://jq.qq.com/?_wv=1027&k=ktwOHdU2) | [Telegram](https://t.me/@lgc2333) ([Channel](https://t.me/stu2333_pd) | [NSFW Channel](https://t.me/stu_collection2))
 - 🏢 My organizations: [lgc-LLSEDev](https://github.com/lgc-LLSEDev) | [lgc-NB2Dev](https://github.com/lgc-NB2Dev)
 - 🌎 My website: <https://lgc2333.top>
+- 👗 Dress: [Cute-Dress/Dress - lgc2333](https://github.com/Cute-Dress/Dress/tree/master/lgc2333#student_2333)
 - 🤝 Support me: [AFDian](https://afdian.net/@lgc2333) | [Direct(Alipay, WeChat Pay or QQ Pay)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
 
 Profile Visits from 2023/4/12 | I LOVE LOLIS
