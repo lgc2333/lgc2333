@@ -9,7 +9,7 @@
 - 👗 Dress: [Cute-Dress/Dress - lgc2333](https://github.com/Cute-Dress/Dress/tree/master/lgc2333#student_2333)
 - 🤝 Support me: [AFDian](https://afdian.net/@lgc2333) | [Direct(Alipay, WeChat Pay or QQ Pay)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
 
-Profile Visits from 2023/4/12 | I LOVE LOLIS
+Profile Visits from 2023/4/12 | I LOVE ANIME LOLIS
 
 ![visits](https://count.getloli.com/get/@lgc2333?theme=rule34)
 
