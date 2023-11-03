@@ -19,6 +19,8 @@ Profile Visits from 2023/4/12 | I LOVE ANIME LOLIS
 
 <img src="https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true" />
 <img src="https://metrics.lecoq.io/lgc2333?template=classic&lines=1&languages=1&habits=1&isocalendar=1&isocalendar.duration=full-year&languages.other=true&config.timezone=Asia%2FShanghai" />
+<img src="https://metrics.lecoq.io/lgc-NB2Dev?template=classic&languages=1&config.timezone=Asia%2FShanghai" />
+<img src="https://metrics.lecoq.io/lgc-LLSEDev?template=classic&languages=1&config.timezone=Asia%2FShanghai" />
 
 ### Detailed Info
 
