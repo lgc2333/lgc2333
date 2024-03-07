@@ -1,7 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=aacdf4&vCenter=true&width=435&lines=Hello+There+%F0%9F%91%8B;I'm+student_2333~;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 
-## 🧑‍💻 Self-Intro
-
 ![#AACDF4](https://img.shields.io/badge/%23AACDF4-aacdf4?style=for-the-badge)
 
 A 17 years old senior high student (dropped out) loves programming living in Guangshui, Suizhou, Hubei, China.  
