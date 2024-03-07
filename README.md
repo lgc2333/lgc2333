@@ -14,7 +14,7 @@ Visits since 2023/4/12
 [![lgc-NB2Dev](https://img.shields.io/badge/lgc--NB2Dev-ea5252?style=for-the-badge)](https://github.com/lgc-NB2Dev)
 [![lgc-LLDev](https://img.shields.io/badge/lgc--LLDev-688a5c?style=for-the-badge)](https://github.com/lgc-LLDev)
 
-## ✨ Skils
+## ✨ Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![PDM](https://img.shields.io/badge/PDM-7e56c2.svg?style=for-the-badge&logo=pdm&logoColor=white)
