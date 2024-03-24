@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=aacdf4&vCenter=true&width=435&lines=Hello+There+%F0%9F%91%8B;I'm+student_2333~;Nice+to+meet+you+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=aacdf4&vCenter=true&width=435&lines=Hello+There+👋;I+am+student_2333+🍪;Nice+to+meet+you+❤️)](https://git.io/typing-svg)
 
 ![#AACDF4](https://img.shields.io/badge/%23AACDF4-aacdf4?style=for-the-badge)
 
@@ -28,6 +28,7 @@ Visits since 2023/4/12
 ![Yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Koishi.js](https://img.shields.io/badge/Koishi.js-5546a3.svg?style=for-the-badge)
 
+<!--
 ## 🖥️ Device Spec
 
 ### PC
@@ -44,6 +45,7 @@ Visits since 2023/4/12
 
 ![LG V50 ThinQ](https://img.shields.io/badge/LG_V50_ThinQ-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)
 ![Android 11 With Magisk](https://img.shields.io/badge/Android_11_With_Magisk-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+-->
 
 ## 🌎 Social
 
@@ -58,7 +60,7 @@ Visits since 2023/4/12
 [![TG SFW Ch. @stu2333_pd](https://img.shields.io/badge/TG_SFW_Ch._@stu2333__pd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stu2333_pd)
 [![TG NSFW Ch. @stu_collection3](https://img.shields.io/badge/TG_NSFW_Ch._@stu__collection3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stu_collection3)
 
-## 🤝 Support
+## ❤️ Donate
 
 [![AFDian @lgc2333](https://img.shields.io/badge/AFDian_@lgc2333-946ce6?style=for-the-badge)](https://afdian.net/a/lgc2333)
 [![收款码(Direct QR Code)](https://img.shields.io/badge/收款码\(Direct_QR_Code\)-aacdf4?style=for-the-badge)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
@@ -68,7 +70,7 @@ Visits since 2023/4/12
 <img src="https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true" />
 
 <details>
-<summary>Click to Expand ヽ(*・ω・)ﾉ</summary>
+<summary>Detailed - Click to Expand ヽ(*・ω・)ﾉ</summary>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C123%20hrs-blue)
