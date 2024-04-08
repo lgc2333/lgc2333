@@ -2,20 +2,20 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=aacdf4&vCenter=true&width=435&center=true&vCenter=true&lines=Hello+There+👋;I+am+student_2333+🍪;Nice+to+meet+you+❤️)](https://git.io/typing-svg)
 
-[![#AACDF4](https://img.shields.io/badge/%23AACDF4-aacdf4?style=for-the-badge)](#)
+[![Theme #AACDF4](https://img.shields.io/badge/theme-%23AACDF4-aacdf4?style=for-the-badge)](#)
 
-A 17 years old senior high student (dropped out) loves programming living in Guangshui, Suizhou, Hubei, China.  
+A 17 years old senior high student (dropped out) loves programming living in  China.  
 You can call me `student(_2333)`, `lgc(2333)`, or `饼干`(`cookie`).
 
 Visits since 2023/4/12  
-[![Visit Count](https://count.getloli.com/get/@lgc2333?theme=rule34)](#)
+<!-- [![Visit Count](https://count.getloli.com/get/@lgc2333?theme=rule34)](#) -->
 
 <details open>
 <summary>Expand / Collapse</summary>
 
 ## 🔍 Related
 
-[![女装\(Cross-Dressing\)](https://img.shields.io/badge/女装\(Cross--Dressing\)-aacdf4?style=for-the-badge)](https://github.com/Cute-Dress/Dress/tree/master/L/lgc2333#student_2333)
+[![Cute-Dress/Dress(女装)](<https://img.shields.io/badge/Cute--Dress%2FDress(女装)-aacdf4?style=for-the-badge>)](https://github.com/Cute-Dress/Dress/tree/master/L/lgc2333#student_2333)
 [![lgc-NB2Dev](https://img.shields.io/badge/lgc--NB2Dev-ea5252?style=for-the-badge)](https://github.com/lgc-NB2Dev)
 [![lgc-LLDev](https://img.shields.io/badge/lgc--LLDev-688a5c?style=for-the-badge)](https://github.com/lgc-LLDev)
 
@@ -34,7 +34,7 @@ Visits since 2023/4/12
 [![Koishi.js](https://img.shields.io/badge/Koishi.js-5546a3.svg?style=for-the-badge)](https://koishi.chat/)
 
 <!-- [![osu!](https://osu-sig.vercel.app/card?user=lgc2333&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/24557481)
-[![osu! mania](https://osu-sig.vercel.app/card?user=lgc2333&mode=mania&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](#) -->
+[![osu! mania](https://osu-sig.vercel.app/card?user=lgc2333&mode=mania&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/24557481) -->
 
 ## 🌎 Social
 
@@ -51,11 +51,12 @@ Visits since 2023/4/12
 ## ❤️ Donate
 
 [![AFDian @lgc2333](https://img.shields.io/badge/AFDian_@lgc2333-946ce6?style=for-the-badge)](https://afdian.net/a/lgc2333)
-[![收款码(Direct QR Code)](https://img.shields.io/badge/收款码\(Direct_QR_Code\)-aacdf4?style=for-the-badge)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
+[![收款码(Direct QR Code)](<https://img.shields.io/badge/收款码(Direct_QR_Code)-aacdf4?style=for-the-badge>)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
 
 ## 🕒 Stats
 
 [![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](#)
 
 </div>
 

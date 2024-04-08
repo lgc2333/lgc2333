@@ -1,7 +1,7 @@
 name: Prettify Doc
 
 on:
-  # push:
+  push:
   workflow_dispatch:
 
 jobs:
