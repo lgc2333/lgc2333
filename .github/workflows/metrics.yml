@@ -15,4 +15,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          plugin_isocalendar: true
+          plugin_languages: true
+          plugin_lines: true
+          plugin_reactions: true
+          plugin_wakatime: true
           token: ${{ secrets.GH_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}

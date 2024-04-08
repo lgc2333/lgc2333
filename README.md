@@ -55,8 +55,9 @@ Visits since 2023/4/12
 
 ## 🕒 Stats
 
-[![GitHub Readme Stats](https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true)](#)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](#)
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true)](#) -->
+
+[![Metrics](./github-metrics.svg)](#)
 
 </div>
 
