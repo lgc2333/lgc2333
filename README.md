@@ -4,10 +4,11 @@
 
 [![Theme #AACDF4](https://img.shields.io/badge/theme-%23AACDF4-aacdf4?style=for-the-badge)](#)
 
-A 17 years old senior high student (dropped out) loves programming living in  China.  
+A 17 years old senior high student (dropped out) loves programming living in China.  
 You can call me `student(_2333)`, `lgc(2333)`, or `饼干`(`cookie`).
 
-Visits since 2023/4/12  
+Visits since 2023/4/12
+
 <!-- [![Visit Count](https://count.getloli.com/get/@lgc2333?theme=rule34)](#) -->
 
 <details open>
