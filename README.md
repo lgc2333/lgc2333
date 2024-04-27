@@ -36,6 +36,7 @@ Visits since 2023/4/12
 [![Koishi.js](https://img.shields.io/badge/Koishi.js-5546a3.svg?style=for-the-badge)](https://koishi.chat/)
 
 [![osu!](https://osu-sig.vercel.app/card?user=24557481&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/24557481)
+
 <!-- [![osu! mania](https://osu-sig.vercel.app/card?user=24557481&mode=mania&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/24557481) -->
 
 ## 🌎 Social
