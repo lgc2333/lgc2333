@@ -4,7 +4,7 @@
 
 [![Theme #AACDF4](https://img.shields.io/badge/theme-%23AACDF4-aacdf4?style=for-the-badge)](#)
 
-A 17 years old programming lover who gave up study living in China.  
+I'm a 17 years old programming lover living in China who gave up studies.  
 You can call me `饼干`(`cookie`) because I'm holding it on my avatar.
 
 Visits since 2023/4/12  
