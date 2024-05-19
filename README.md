@@ -17,9 +17,10 @@ Visits since 2023/4/12
 
 ## 🔍 Related
 
-[![Cute-Dress/Dress(女装)](<https://img.shields.io/badge/Cute--Dress%2FDress(女装)-aacdf4?style=for-the-badge>)](https://github.com/Cute-Dress/Dress/tree/master/L/lgc2333#student_2333)
+[![Cute-Dress/Dress(女装)](<https://img.shields.io/badge/Cute--Dress%2FDress(女装)-aacdf4?style=for-the-badge>)](https://github.com/Cute-Dress/Dress/tree/master/L/lgc2333#student_2333)  
 [![lgc-NB2Dev](https://img.shields.io/badge/lgc--NB2Dev-ea5252?style=for-the-badge)](https://github.com/lgc-NB2Dev)
 [![lgc-LLDev](https://img.shields.io/badge/lgc--LLDev-688a5c?style=for-the-badge)](https://github.com/lgc-LLDev)
+[![lgc-KoiDev](https://img.shields.io/badge/lgc--KoiDev-5546a3?style=for-the-badge)](https://github.com/lgc-KoiDev)
 
 ## ✨ Skills
 
