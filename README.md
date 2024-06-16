@@ -7,7 +7,7 @@ _だから僕はプログラミングを辞めた
 So I Gave Up Programming_
 
 <!--
-_どうでもいいんだ，あんたのせいだ  
+_どうでもいいんだ，あんたのせいだ
 Whatever, It's Your Fault_
 -->
 
