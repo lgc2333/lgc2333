@@ -1,15 +1,12 @@
 <div align="center">
 
 _私は……プログラミング、楽しいって思ったこと一度もない  
-I've Never Thought Programming was Fun_
+I… I've Never Thought that Programming was Fun_
 
 _だから僕はプログラミングを辞めた  
-So I Gave Up Programming_
-
-<!--
-_どうでもいいんだ，あんたのせいだ
-Whatever, It's Your Fault_
--->
+So, I Gave Up Programming  
+どうでもいいんだ，**あんた**の~~せいだ~~
+Whatever, It's All Becase of **YOUR** ~~Fault~~_
 
 ---
 
