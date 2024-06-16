@@ -1,5 +1,8 @@
 <div align="center">
 
+_私は……プログラミング、楽しいって思ったこと一度もない  
+I've Never Thought Programming was Fun_
+
 _だから僕はプログラミングを辞めた  
 So I Gave Up Programming_
 
