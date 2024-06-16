@@ -6,8 +6,10 @@ I've Never Thought Programming was Fun_
 _だから僕はプログラミングを辞めた  
 So I Gave Up Programming_
 
+<!--
 _どうでもいいんだ，あんたのせいだ  
 Whatever, It's Your Fault_
+-->
 
 ---
 
