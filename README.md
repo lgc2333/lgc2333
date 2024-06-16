@@ -6,6 +6,9 @@ I've Never Thought Programming was Fun_
 _だから僕はプログラミングを辞めた  
 So I Gave Up Programming_
 
+_どうでもいいんだ，あんたのせいだ
+Whatever, It's Your Fault_
+
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=aacdf4&vCenter=true&width=435&center=true&vCenter=true&lines=Hello+There+👋;I+am+student_2333+🍪;Nice+to+meet+you+❤️)](https://git.io/typing-svg)
