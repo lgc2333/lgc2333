@@ -5,8 +5,8 @@ I… I've Never Thought that Programming was Fun_
 
 _だから僕はプログラミングを辞めた  
 So, I Gave Up Programming  
-どうでもいいんだ，**あんた**の~~せいだ~~  
-Whatever, It's All Becase of **YOUR** ~~Fault~~_
+どうでもいいんだ，**あんた**のせいだ  
+Whatever, It's All Becase of **YOU**_
 
 ---
 
