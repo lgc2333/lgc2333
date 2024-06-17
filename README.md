@@ -1,15 +1,5 @@
 <div align="center">
 
-_私は……プログラミング、楽しいって思ったこと一度もない  
-I… I've Never Thought that Programming was Fun_
-
-_だから僕はプログラミングを辞めた  
-So, I Gave Up Programming  
-どうでもいいんだ，**あんた**のせいだ  
-Whatever, It's All Becase of **YOU**_
-
----
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=aacdf4&vCenter=true&width=435&center=true&vCenter=true&lines=Hello+There+👋;I+am+student_2333+🍪;Nice+to+meet+you+❤️)](https://git.io/typing-svg)
 
 [![Theme #AACDF4](https://img.shields.io/badge/theme-%23AACDF4-aacdf4?style=for-the-badge)](#)
