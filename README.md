@@ -54,7 +54,7 @@ Visits since 2023/4/12
 
 ## ❤️ Donate
 
-[![Blog Donation Page](<https://img.shields.io/badge/Blog_Donation_Page-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/donate)
+[![Blog Donation Page](https://img.shields.io/badge/Blog_Donation_Page-aacdf4?style=for-the-badge)](https://blog.lgc2333.top/donate)
 
 ## 🕒 Stats
 
