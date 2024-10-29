@@ -46,15 +46,15 @@ Visits since 2023/4/12
 [![TG @lgc2333](https://img.shields.io/badge/TG_@lgc2333-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@lgc2333)  
 [![QQ Group 1105946125](https://img.shields.io/badge/QQ_Group_1105946125-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://jq.qq.com/?_wv=1027&k=ktwOHdU2)
 
-[![https://lgc2333.top](https://img.shields.io/badge/https%3A%2F%2Flgc2333.top-aacdf4?style=for-the-badge)](https://lgc2333.top)
+[![Homepage](https://img.shields.io/badge/Homepage-aacdf4?style=for-the-badge)](https://lgc2333.top)
+[![Blog](https://img.shields.io/badge/Blog-aacdf4?style=for-the-badge)](https://blog.lgc2333.top)  
 [![Bilibili @student_2333](https://img.shields.io/badge/Bilibili_@student__2333-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/257534706)  
 [![TG SFW Ch. @stu2333_pd](https://img.shields.io/badge/TG_SFW_Ch._@stu2333__pd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stu2333_pd)
 [![TG NSFW Ch. @stu_collection3](https://img.shields.io/badge/TG_NSFW_Ch._@stu__collection3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stu_collection3)
 
 ## ❤️ Donate
 
-[![AFDian @lgc2333](https://img.shields.io/badge/AFDian_@lgc2333-946ce6?style=for-the-badge)](https://afdian.net/a/lgc2333)
-[![收款码(Direct QR Code)](<https://img.shields.io/badge/收款码(Direct_QR_Code)-aacdf4?style=for-the-badge>)](https://github.com/lgc2333/ShigureBotMenu/blob/master/docs/imgs/sponsor.png)
+[![Blog Donation Page](<https://img.shields.io/badge/Blog_Donation_Page-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/donate)
 
 ## 🕒 Stats
 
