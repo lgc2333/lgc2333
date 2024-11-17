@@ -7,7 +7,7 @@
 I'm a 17 years old programming hobbist living in China.  
 You can call me `饼干`(`cookie`) because I'm holding it on my avatar.
 
-**New nickname currently soliciting opinion (JP / EN / CN)**  
+**I'm looking for a new nickname (JP / EN / CN)**  
 **Until then I'll use my real name**  
 **If you have good idea, you can reach me via social media down below**
 
