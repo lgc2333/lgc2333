@@ -8,7 +8,7 @@
 
 [![Theme #AACDF4](https://img.shields.io/badge/theme-%23AACDF4-aacdf4?style=for-the-badge)](#)
 
-<img src="./character-s.png" alt="Character" height="280px" height="auto" align="right" />
+<img src="./character-s.png" alt="Character" height="250px" height="auto" align="right" />
 
 I'm a 17 years old programming hobbyist living in China.  
 You can call me `饼干`(`cookie`).  
