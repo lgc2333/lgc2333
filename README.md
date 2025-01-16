@@ -10,7 +10,7 @@
 
 <img src="./character-s.png" alt="Character" height="250px" height="auto" align="right" />
 
-I'm a 17 years old programming hobbyist living in China.  
+I'm a 18 years old programming hobbyist living in China.  
 You can call me `饼干`(`cookie`).  
 My character is on the right.
 
