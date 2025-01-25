@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=aacdf4&vCenter=true&width=435&center=true&vCenter=true&lines=Hello+There+👋;I+am+student_2333+🍪;Nice+to+meet+you+❤️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=2000&pause=500&color=aacdf4&vCenter=true&width=435&center=true&vCenter=true&lines=Hello+There+👋;I+am+LgCookie+🍪;Nice+to+meet+you+❤️)](https://git.io/typing-svg)
 
 <div>
 
@@ -57,7 +57,7 @@ Visits since 2023/4/12
 
 [![Homepage](https://img.shields.io/badge/Homepage-aacdf4?style=for-the-badge)](https://lgc2333.top)
 [![Blog](https://img.shields.io/badge/Blog-aacdf4?style=for-the-badge)](https://blog.lgc2333.top)  
-[![Bilibili @student_2333](https://img.shields.io/badge/Bilibili_@student__2333-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/257534706)  
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/257534706)  
 [![TG SFW Ch. @stu2333_pd](https://img.shields.io/badge/TG_SFW_Ch._@stu2333__pd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stu2333_pd)
 [![TG NSFW Ch. @stu_collection3](https://img.shields.io/badge/TG_NSFW_Ch._@stu__collection3-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stu_collection3)
 
