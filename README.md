@@ -11,7 +11,7 @@
 <img src="./character-s.png" alt="Character" height="250px" height="auto" align="right" />
 
 I'm a 18 years old programming hobbyist living in China.  
-My name pronounced as `Large Cookie`.
+My name pronounced as `Large Cookie`.  
 My character is on the right.
 
 [![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me_(zh--CN)-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/about)
