@@ -62,7 +62,7 @@ Visits since 2023/4/12
 
 ## ❤️ Donate
 
-[![AFDian](https://img.shields.io/badge/AFDian-946ce6?style=for-the-badge)](https://afdian.com/a/lgc2333)
+[![AFDian](https://img.shields.io/badge/AFDian-946ce6?style=for-the-badge&logo=afdian&logoColor=white)](https://afdian.com/a/lgc2333)
 [![Blog Donation Page](https://img.shields.io/badge/Blog_Donation_Page-aacdf4?style=for-the-badge)](https://blog.lgc2333.top/donate)
 
 ## 🕒 Stats
