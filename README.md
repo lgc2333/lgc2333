@@ -53,10 +53,9 @@ Visits since 2023/4/12
 [![E-mail lgc2333@126.com](https://img.shields.io/badge/E--mail_lgc2333@126.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lgc2333@126.com)
 [![QQ 307682385](https://img.shields.io/badge/QQ_3076823485-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](#)
 [![TG @lgc2333](https://img.shields.io/badge/TG_@lgc2333-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@lgc2333)  
-[![QQ Group 1105946125](https://img.shields.io/badge/QQ_Group_1105946125-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](https://jq.qq.com/?_wv=1027&k=ktwOHdU2)
 
 [![Homepage](https://img.shields.io/badge/Homepage-aacdf4?style=for-the-badge)](https://lgc2333.top)
-[![Blog](https://img.shields.io/badge/Blog-aacdf4?style=for-the-badge)](https://blog.lgc2333.top)  
+[![Blog](https://img.shields.io/badge/Blog-aacdf4?style=for-the-badge)](https://blog.lgc2333.top)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/257534706)  
 [![TG SFW Ch. @stu2333_pd](https://img.shields.io/badge/TG_SFW_Ch._@stu2333__pd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stu2333_pd)
 
