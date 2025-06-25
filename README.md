@@ -52,7 +52,7 @@ Visits since 2023/4/12
 
 [![E-mail lgc2333@126.com](https://img.shields.io/badge/E--mail_lgc2333@126.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lgc2333@126.com)
 [![QQ 307682385](https://img.shields.io/badge/QQ_3076823485-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](#)
-[![TG @lgc2333](https://img.shields.io/badge/TG_@lgc2333-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@lgc2333)  
+[![TG @lgc2333](https://img.shields.io/badge/TG_@lgc2333-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@lgc2333)
 
 [![Homepage](https://img.shields.io/badge/Homepage-aacdf4?style=for-the-badge)](https://lgc2333.top)
 [![Blog](https://img.shields.io/badge/Blog-aacdf4?style=for-the-badge)](https://blog.lgc2333.top)
