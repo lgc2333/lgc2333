@@ -58,7 +58,7 @@ Visits since 2023/4/12
 [![Homepage](https://img.shields.io/badge/Homepage-aacdf4?style=for-the-badge)](https://lgc2333.top)
 [![Blog](https://img.shields.io/badge/Blog-aacdf4?style=for-the-badge)](https://blog.lgc2333.top)
 [![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/257534706)  
-[![TG SFW Ch. @stu2333_pd](https://img.shields.io/badge/TG_SFW_Ch._@stu2333__pd-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/stu2333_pd)
+[![TG SFW Ch. @lgcookiechannel](https://img.shields.io/badge/TG_SFW_Ch._@lgcookiechannel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lgcookiechannel)
 
 ## ❤️ Donate
 
