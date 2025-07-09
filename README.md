@@ -50,8 +50,9 @@ Visits since 2023/4/12
 
 ## 🌎 Social
 
+[![QQ 307682385](https://img.shields.io/badge/QQ_3076823485-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](#)
+[![QQ Group 168603371](https://img.shields.io/badge/QQ_Group_168603371-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](https://qm.qq.com/q/EikuZ5sP4G)  
 [![E-mail lgc2333@126.com](https://img.shields.io/badge/E--mail_lgc2333@126.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lgc2333@126.com)
-[![QQ 307682385](https://img.shields.io/badge/QQ_3076823485-12B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)](#)
 [![TG @lgc2333](https://img.shields.io/badge/TG_@lgc2333-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@lgc2333)
 
 [![Homepage](https://img.shields.io/badge/Homepage-aacdf4?style=for-the-badge)](https://lgc2333.top)
