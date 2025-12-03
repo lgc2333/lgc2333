@@ -8,11 +8,14 @@
 
 [![Theme #AACDF4](https://img.shields.io/badge/theme-%23AACDF4-aacdf4?style=for-the-badge)](#)
 
-<img src="./character-s.png" alt="Character" height="250px" height="auto" align="right" />
+<!-- <img src="./character-s.png" alt="Character" height="290px" align="right" /> -->
 
-I'm a 18 years old programming hobbyist living in China.  
-My nickname pronounced as `Large Cookie`.  
-My character is on the right.
+I'm a 18 years old programming hobbyist living in China  
+This nickname pronounced as `Large Cookie`
+
+**I'm NOT interested in AI**  
+**Please DO NOT send me any AI related offer**  
+Not any Python developer is familiar with AI
 
 [![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me_(zh--CN)-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/about)
 
@@ -32,16 +35,11 @@ Visits since 2023/4/12
 
 ## ✨ Skills
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)  
-[![PDM](https://img.shields.io/badge/PDM-7e56c2.svg?style=for-the-badge&logo=pdm&logoColor=white)](#)
-[![Poetry](https://img.shields.io/badge/Poetry-3B82F6.svg?style=for-the-badge&logo=poetry&logoColor=0B3D8D)](#)
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
 [![NoneBot2](https://img.shields.io/badge/NoneBot2-ea5252.svg?style=for-the-badge)](https://nonebot.dev/)
 
-[![JavaScript](https://img.shields.io/badge/javascript-323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](#)
-[![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)  
+[![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![PNPM](https://img.shields.io/badge/pnpm-4a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)](#)
-[![Yarn](https://img.shields.io/badge/yarn-2C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)](#)
 [![Koishi.js](https://img.shields.io/badge/Koishi.js-5546a3.svg?style=for-the-badge)](https://koishi.chat/)
 
 [![osu!](https://osu-sig.vercel.app/card?user=24557481&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/24557481)  
