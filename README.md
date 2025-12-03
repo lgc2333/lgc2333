@@ -19,7 +19,7 @@ Not any Python developer is familiar with AI
 
 [![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me_(zh--CN)-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/about)
 
-<!-- Visits since 2023/4/12  
+<!-- Visits since 2023/4/12
 [![Visit Count](https://count.getloli.com/get/@lgc2333?theme=rule34)](#) -->
 
 </div>
