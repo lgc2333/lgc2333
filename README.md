@@ -1,5 +1,6 @@
-_**For now, I don't want to write code anymore.**_  
-_**My code is garbage, maintaining it is a complete waste of time.**_
+## _For now, I don't want to write code anymore._
+
+## _My code is garbage, maintaining it is a complete waste of time._
 
 <!--
 
