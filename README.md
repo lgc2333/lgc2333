@@ -15,11 +15,11 @@ _**My code is garbage, maintaining it is a complete waste of time.**_
 
 <!-- <img src="./character-s.png" alt="Character" height="290px" align="right" /> --\>
 
-I'm a 18 years old programming hobbyist living in China  
+I'm a 18 years old programming hobbyist living in China
 This nickname pronounced as `Large Cookie`
 
-**I'm NOT interested in AI**  
-**Please DO NOT send me any AI related offer**  
+**I'm NOT interested in AI**
+**Please DO NOT send me any AI related offer**
 Not any Python developer is familiar with AI
 
 [![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me_(zh--CN)-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/about)
@@ -47,19 +47,19 @@ Not any Python developer is familiar with AI
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Koishi.js](https://img.shields.io/badge/Koishi.js-5546a3.svg?style=for-the-badge)](https://koishi.chat/)
 
-[![osu!](https://osu-sig.vercel.app/card?user=24557481&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/24557481)  
+[![osu!](https://osu-sig.vercel.app/card?user=24557481&mode=std&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/24557481)
 [![osu! mania](https://osu-sig.vercel.app/card?user=24557481&mode=mania&lang=en&round_avatar=true&animation=true&hue=200&mini=true)](https://osu.ppy.sh/users/24557481)
 
 ## 🌎 Social
 
 [![QQ 307682385](https://img.shields.io/badge/QQ_3076823485-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](#)
-[![QQ Group 168603371](https://img.shields.io/badge/QQ_Group_168603371-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](https://qm.qq.com/q/EikuZ5sP4G)  
+[![QQ Group 168603371](https://img.shields.io/badge/QQ_Group_168603371-12B7F5?style=for-the-badge&logo=qq&logoColor=white)](https://qm.qq.com/q/EikuZ5sP4G)
 [![E-mail lgc2333@126.com](https://img.shields.io/badge/E--mail_lgc2333@126.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lgc2333@126.com)
 [![TG @lgc2333](https://img.shields.io/badge/TG_@lgc2333-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@lgc2333)
 
 [![Homepage](https://img.shields.io/badge/Homepage-aacdf4?style=for-the-badge)](https://lgc2333.top)
 [![Blog](https://img.shields.io/badge/Blog-aacdf4?style=for-the-badge)](https://blog.lgc2333.top)
-[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/257534706)  
+[![Bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white)](https://space.bilibili.com/257534706)
 [![TG SFW Ch. @lgcookiechannel](https://img.shields.io/badge/TG_SFW_Ch._@lgcookiechannel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lgcookiechannel)
 
 ## ❤️ Donate
