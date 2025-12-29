@@ -1,4 +1,9 @@
-<!-- markdownlint-disable MD033 MD041 MD042 -->
+_**For now, I don't want to write code anymore.**_  
+_**My code is garbage, maintaining it is a complete waste of time.**_
+
+<!--
+
+<!-- markdownlint-disable MD033 MD041 MD042 --\>
 
 <div align="center">
 
@@ -8,7 +13,7 @@
 
 [![Theme #AACDF4](https://img.shields.io/badge/theme-%23AACDF4-aacdf4?style=for-the-badge)](#)
 
-<!-- <img src="./character-s.png" alt="Character" height="290px" align="right" /> -->
+<!-- <img src="./character-s.png" alt="Character" height="290px" align="right" /> --\>
 
 I'm a 18 years old programming hobbyist living in China  
 This nickname pronounced as `Large Cookie`
@@ -20,7 +25,7 @@ Not any Python developer is familiar with AI
 [![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me_(zh--CN)-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/about)
 
 <!-- Visits since 2023/4/12
-[![Visit Count](https://count.getloli.com/get/@lgc2333?theme=rule34)](#) -->
+[![Visit Count](https://count.getloli.com/get/@lgc2333?theme=rule34)](#) --\>
 
 </div>
 
@@ -64,10 +69,12 @@ Not any Python developer is familiar with AI
 
 ## 🕒 Stats
 
-<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true)](#) -->
+<!-- [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lgc2333&show_icons=true)](#) --\>
 
 [![Metrics](./github-metrics.svg)](#)
 
 </div>
 
 </details>
+
+-->
