@@ -1,10 +1,26 @@
-## _For now, I don't want to write code anymore._
-
-## _My code is garbage, maintaining it is a complete waste of time._
+<!-- markdownlint-disable MD033 MD041 MD042 --\>
 
 <!--
 
-<!-- markdownlint-disable MD033 MD041 MD042 --\>
+<!--
+
+<!--
+
+## _For now, I want to write code because._
+
+## _My code is rare treasure, maintaining it is an excellent contribution to the community, and something we (her) can learn from and emulate._
+
+-->
+
+-->
+
+-->
+
+<!-- hiiiiii -->
+
+<!-- . -->
+
+<<>>
 
 <div align="center">
 
@@ -13,6 +29,8 @@
 <div>
 
 [![Theme #AACDF4](https://img.shields.io/badge/theme-%23AACDF4-aacdf4?style=for-the-badge)](#)
+
+<!--
 
 <!-- <img src="./character-s.png" alt="Character" height="290px" align="right" /> --\>
 
@@ -77,5 +95,7 @@ Not any Python developer is familiar with AI
 </div>
 
 </details>
+
+->>
 
 -->
