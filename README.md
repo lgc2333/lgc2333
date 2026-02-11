@@ -6,7 +6,7 @@
 
 ### _I always get lost in coding and lose track of time. But my love wants more time to spend together, so, I chose to sacrifice myself._
 
-### _Besides, honestly, I'm tired too. I want to take a break and relax. I uninstalled my VSCode and turned to playing video games and doing other things. I can have another type of fun.\_
+### \_Besides, honestly, I'm tired too. I want to take a break and relax. I uninstalled my VSCode and turned to playing video games and doing other things. I can have another type of fun.\_
 
 ### _See you in the future._
 
