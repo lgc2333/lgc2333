@@ -2,13 +2,11 @@
 
 ## ~~_My code is garbage, maintaining it is a complete waste of time._~~
 
-### _Truth:_
-
-### _I always get lost in coding and lose track of time. But my love wants more time to spend together, so, I chose to sacrifice myself._
-
-### _Besides, honestly, I'm tired too. I want to take a break and relax. I uninstalled my VSCode and turned to playing video games and doing other things. I can have another type of fun._
+### _Truth:_ <br /> _I always get lost in coding and lose track of time. My heart itches when there's an incomplete functionality._ <br /> _But my love wants more time to spend together._ <br /> _Finally, I chose to sacrifice myself._ <br /> _Besides, honestly, I'm tired too. I want to take a break and relax._ <br />_I uninstalled my VSCode and turned to playing video games and doing other things. I can have another type of fun._
 
 ### _See you in the future._
+
+_Written on another emotional night. No one actually cares. Maybe._
 
 <!--
 
