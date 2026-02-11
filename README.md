@@ -1,6 +1,14 @@
 ## _For now, I don't want to write code anymore._
 
-## _My code is garbage, maintaining it is a complete waste of time._
+## ~~_My code is garbage, maintaining it is a complete waste of time._~~
+
+### _Truth:_
+
+### _I always get lost in coding and lose track of time. But my love wants more time to spend together, so, I chose to sacrifice myself._
+
+### _Besides, honestly, I'm tried too. I want to take a break, relax myself, play video games or do other things. I can have another type of fun._
+
+### _See you in the future._
 
 <!--
 
