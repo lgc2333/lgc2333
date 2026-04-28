@@ -1,12 +1,30 @@
-## _For now, I don't want to write code anymore._
+For now, I don't want to write code anymore.
 
-## ~~_My code is garbage, maintaining it is a complete waste of time._~~
+_~~My code is garbage, maintaining it is a complete waste of time.~~_
 
-### _Truth:_ <br /> _I always get lost in coding and lose track of time. My heart itches when there's an incomplete functionality._ <br /> _But my love wants more time to spend together._ <br /> _Finally, I chose to sacrifice myself._ <br /> _Besides, honestly, I'm tired too. I want to take a break and relax._ <br />_I uninstalled my VSCode and turned to playing video games and doing other things. I can have another type of fun._
+**Truth:** I always get lost in coding and lose track of time. My heart itches when there's an incomplete functionality.  
+But my love wants more time to spend together.  
+Finally, I chose to sacrifice myself.  
+Besides, honestly, I'm tired too. I want to take a break and relax.  
+I uninstalled my VSCode and turned to playing video games and doing other things. I can have another type of fun.
 
-### _See you in the future._
+**_See you in the future._**
 
 _Written on another emotional night. No one actually cares. Maybe._
+
+---
+
+I'm a 19 years old programming hobbyist living in China.  
+My nickname pronounced as `Large Cookie`.
+
+[![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me_(zh--CN)-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/about)
+
+### Sponsor
+
+_(Put here for AFDian creator verfication)_
+
+[![AFDian](https://img.shields.io/badge/AFDian-946ce6?style=for-the-badge&logo=afdian&logoColor=white)](https://afdian.com/a/lgc2333)
+[![Blog Donation Page](https://img.shields.io/badge/Blog_Donation_Page-aacdf4?style=for-the-badge)](https://blog.lgc2333.top/donate)
 
 <!--
 
