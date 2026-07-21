@@ -17,6 +17,8 @@ _Written on another emotional night. No one actually cares. Maybe._
 I'm a 19 years old programming hobbyist living in China.  
 My nickname pronounced as `Large Cookie`.
 
+<img width="520" alt="Logo" src="https://raw.githubusercontent.com/lgc2333/kawaii/refs/heads/main/logo_svg_compatible.svg">
+
 [![More About Me (zh-CN)](<https://img.shields.io/badge/More_About_Me_(zh--CN)-aacdf4?style=for-the-badge>)](https://blog.lgc2333.top/about)
 
 ### Sponsor
