@@ -7,9 +7,6 @@ My nickname pronounced as `Large Cookie`.
 
 [![More About Me](https://img.shields.io/badge/More_About_Me-aacdf4?style=for-the-badge)](https://lgck.cc/about)
 
-<details open>
-<summary>Expand / Collapse</summary>
-
 ## 🔍 Related
 
 [![lgc-NB2Dev](https://img.shields.io/badge/lgc--NB2Dev-ea5252?style=for-the-badge)](https://github.com/lgc-NB2Dev)
@@ -30,6 +27,9 @@ My nickname pronounced as `Large Cookie`.
 [![Homepage Donation Page](https://img.shields.io/badge/Homepage_Donation_Page-aacdf4?style=for-the-badge)](https://lgck.cc/donate)
 
 ## 🕒 Stats
+
+<details>
+<summary>Expand / Collapse</summary>
 
 [![Metrics](./github-metrics.svg)](#)
 
