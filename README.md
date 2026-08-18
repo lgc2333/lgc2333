@@ -5,6 +5,8 @@
 I'm a 19 years old programming hobbyist living in China.  
 My nickname pronounced as `Large Cookie`.
 
+**Available for hiring**, please reach me via email.
+
 [![More About Me](https://img.shields.io/badge/More_About_Me-aacdf4?style=for-the-badge)](https://lgck.cc/about)
 
 ## 🔍 Related
