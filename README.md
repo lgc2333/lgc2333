@@ -1,8 +1,8 @@
-# Hi, there 👋
+# Hi there 👋
 
 <img width="192" alt="Logo" align="right" src="https://raw.githubusercontent.com/lgc2333/kawaii/refs/heads/main/logo_svg_compatible.svg">
 
-I'm a 19 years old programming hobbyist living in China.  
+I'm a 19-year-old programming hobbyist living in China.  
 My nickname can be pronounced as `Large Cookie`.
 
 <!-- **Available for hiring**, please reach me via email. -->
@@ -20,13 +20,13 @@ My nickname can be pronounced as `Large Cookie`.
 [![AI Agents Do All For Me](https://img.shields.io/badge/AI_Agents_Do_All_For_Me-9bccfa?style=for-the-badge)](#)
 [![CheapSeek Lover](https://img.shields.io/badge/CheapSeek_Lover-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
 
-## 🔍 Related
+## 🌐 Elsewhere
 
 [![lgc-NB2Dev](https://img.shields.io/badge/lgc--NB2Dev-ea5252?style=for-the-badge)](https://github.com/lgc-NB2Dev)
 [![lgc-LLDev](https://img.shields.io/badge/lgc--LLDev-688a5c?style=for-the-badge)](https://github.com/lgc-LLDev)
 [![lgc-KoiDev](https://img.shields.io/badge/lgc--KoiDev-5546a3?style=for-the-badge)](https://github.com/lgc-KoiDev)
 
-## ❤️ Donate
+## 💖 Sponsor
 
 [![AFDian](https://img.shields.io/badge/AFDian-946ce6?style=for-the-badge&logo=afdian&logoColor=white)](https://afdian.com/a/lgc2333)
 [![Donation Page](https://img.shields.io/badge/Donation_Page-9bccfa?style=for-the-badge)](https://lgck.cc/donate)
