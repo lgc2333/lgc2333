@@ -12,7 +12,7 @@ My nickname can be pronounced as `Large Cookie`.
 ## ✨ Skills
 
 <!-- [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](#)
-[![NoneBot2](https://img.shields.io/badge/NoneBot2-ea5252.svg?style=for-the-badge)](https://nonebot.dev/)  
+[![NoneBot2](https://img.shields.io/badge/NoneBot2-ea5252.svg?style=for-the-badge)](https://nonebot.dev/)
 [![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![Koishi.js](https://img.shields.io/badge/Koishi.js-5546a3.svg?style=for-the-badge)](https://koishi.chat/) -->
