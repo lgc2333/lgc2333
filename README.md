@@ -2,7 +2,7 @@
 
 <img width="192" alt="Logo" align="right" src="https://raw.githubusercontent.com/lgc2333/kawaii/refs/heads/main/logo_svg_compatible.svg">
 
-I'm a 19-year-old programming hobbyist living in China.  
+I'm a 19-year-old programming hobbyist from China.  
 My nickname can be pronounced as `Large Cookie`.
 
 <!-- **Available for hiring**, please reach me via email. -->
