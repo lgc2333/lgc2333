@@ -18,7 +18,7 @@ My nickname can be pronounced as `Large Cookie`.
 [![Koishi.js](https://img.shields.io/badge/Koishi.js-5546a3.svg?style=for-the-badge)](https://koishi.chat/) -->
 
 [![AI Agents Do All For Me](https://img.shields.io/badge/AI_Agents_Do_All_For_Me-9bccfa?style=for-the-badge)](#)
-[![CheapSeek is My Mom, Saint Liang is My Dad](https://img.shields.io/badge/CheapSeek_is_My_Mom,_Saint_Liang_is_My_Dad-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
+[![Mom CheapSeek, Dad Saint Liang](https://img.shields.io/badge/Mom_CheapSeek,_Dad_Saint_Liang-4D6BFF?style=for-the-badge&logo=deepseek&logoColor=fff)](#)
 
 ## 🌐 Elsewhere
 
